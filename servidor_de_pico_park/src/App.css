@@ -1,0 +1,13 @@
+.contenedor {
+  width: 1116px;
+  height: 590px;
+  border: 10px solid orange;
+  position: relative;
+}
+
+.personaje {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  position: absolute;
+}
